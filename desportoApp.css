@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.form {
+    position: block;
+    
+}
+
+.formField {
+    position: flex;
+    flex-flow: row;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: .75 rem;
+}
+
+.formField label {
+    font-weight: 700;
+    font-size: 1.5 rem;
+}
